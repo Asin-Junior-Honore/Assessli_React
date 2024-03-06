@@ -62,3 +62,7 @@ To achieve Google Sheets integration, the following steps were taken:
 To make this project work locally make sure to make a .env file then place your url or api key then reference it from there when setting up functionality code
 ---
 Feel free to expand or modify the content as needed to provide more context or detail on the Google Sheets integration in your project.
+##
+LiveUrl: https://assessliinternshipassisgnment.netlify.app <br/>
+GoogleSheetUrl :https://docs.google.com/spreadsheets/d/14vhLxTePU68vgSh6bEy63O5Ss0rXy_x0DI0Lwl2IXcY/edit?usp=sharing <br/>
+😊🧑‍💻Feel free to send me a meesage dear😊
